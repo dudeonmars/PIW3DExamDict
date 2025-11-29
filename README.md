@@ -1,5 +1,9 @@
 PI3D Mini Project - Persian Run Surfer
 
+Poster:
+
+<img width="500" height="750" alt="PersianRugSurferPoster" src="https://github.com/user-attachments/assets/717e3dc4-2f22-4cd2-af69-dfd897bacb03" />
+
 https://github.com/user-attachments/assets/bd214037-18b8-4a8d-8aa6-1895169c299d
 
 Overview of the game: 
