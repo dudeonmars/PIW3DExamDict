@@ -12,3 +12,25 @@ Running it:
 Download Unity >= 2021.2.14f
 Clone or Download the project
 The game requires a computer with a mouse and keyboard
+
+Project Parts:
+
+Scripts:
+
+GroundSpawner.cs - Spawns the ground using the ground prefab
+
+ObstacleSpawner.cs - Spawns obstacles op top of the ground in front of the player
+
+PlayerMovement.cs - Manages the players movement and updates boold for Animationr
+
+SimpleGameEndOnHit.cs - Ends the game when player hits an obstacle with attached script. Activates gameover panel
+
+UIDistanceDisplay.cs - Display UI based on player location
+
+Prefabs:
+Animation and player from Maximo by Adobe
+
+Rug prefabs from Unity Asset Store
+
+
+
