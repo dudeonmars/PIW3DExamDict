@@ -13,6 +13,8 @@ Download Unity >= 2021.2.14f
 Clone or Download the project
 The game requires a computer with a mouse and keyboard
 
+
+
 Project Parts:
 
 Scripts:
@@ -27,10 +29,18 @@ SimpleGameEndOnHit.cs - Ends the game when player hits an obstacle with attached
 
 UIDistanceDisplay.cs - Display UI based on player location
 
+
+
 Prefabs:
+
 Animation and player from Maximo by Adobe
 
 Rug prefabs from Unity Asset Store
+
+
+Time Management:
+
+<img width="731" height="430" alt="Screenshot 2025-11-29 at 9 32 01 PM" src="https://github.com/user-attachments/assets/b554e895-12dd-411e-8daa-2ee05576b87e" />
 
 
 
