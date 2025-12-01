@@ -586,7 +586,7 @@ Light:
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 5000
+  m_ColorTemperature: 4773
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
@@ -1037,7 +1037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.262, g: 0.262, b: 0.262, a: 0.24313726}
+  m_Color: {r: 0.546, g: 0.546, b: 0.546, a: 0.44705883}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1093,7 +1093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PI3D.Running.GroundSpawner
   player: {fileID: 379196186}
   groundPrefab: {fileID: 6551172055024068733, guid: c362412ec932647218482307ef8b8fc9, type: 3}
-  segmentsAhead: 5
+  segmentsAhead: 10
 --- !u!4 &1519114766
 Transform:
   m_ObjectHideFlags: 0
